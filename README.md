@@ -1,6 +1,6 @@
 # React-Blog
 
-Blog app using React-Readux. You can post your own stuff easily!
+Blog app using React-Redux. You can post your own stuff easily!
 
 You can navigate through a list of posts, read one at a time, delete it, or even create new posts.
 
