@@ -27,7 +27,7 @@ class PostsNew extends Component {
   onSubmit(values) {
     // this === component
     this.props.createPost(values, () => {
-      this.props.history.push('/');
+      this.props.history.push('/'); // After the action creator has finished, go back to posts list
     });
   }
 
